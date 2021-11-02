@@ -1,0 +1,2 @@
+# LearnScala
+Scala入门
